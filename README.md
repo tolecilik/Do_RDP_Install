@@ -1,5 +1,5 @@
 use for all provider..
-this repo can be install RDP from Digital Ocean. Lionded, ETC.
+this repo can be Auto install RDP from Digital Ocean. Linode, ETC.
 
 Read Before if you install from Digital Ocean.
 
